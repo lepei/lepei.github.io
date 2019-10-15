@@ -3,6 +3,6 @@ layout: default
 ---
 
 
-# [Conversations](./achievements/conversations.html)
+# [Conversations](./conversations.html)
 
-# [Oddities](./achievements/oddities.html)
+# [Oddities](./oddities.html)
