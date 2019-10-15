@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Oddities
 ---
 
 ## Welcome to another page
