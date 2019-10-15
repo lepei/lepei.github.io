@@ -3,6 +3,6 @@ layout: default
 ---
 
 
-# Achievements
+# [Achievements](./achievements/)
 
 # ETC.
