@@ -17,23 +17,54 @@ layout: default
 # [Crescent Hill](crescent-hill/)
 ![Crescent Hill](/assets/img/aura-kingdom/crescent-hill-banner.jpg)
 
-# [Cactakara Forest] (./helonia-coast/)
+<br/><br/>
 
-# [Demarech Mines] (./helonia-coast/)
+# [Cactakara Forest](cactakara-forest/)
+![Cactakara Forest](/assets/img/aura-kingdom/cactakara-forest-banner.jpg)
 
-# [Triatio Highlands] (./helonia-coast/)
+<br/><br/>
 
-# [Candeo Marsh] (./helonia-coast/)
+# [Demarech Mines](demarech-mines/)
+![Demarech Mines](/assets/img/aura-kingdom/demarech-mines-banner.jpg)
 
-# [Ventos Prairie] (./helonia-coast/)
+<br/><br/>
 
-# [Oblitus Wood] (./helonia-coast/)
 
-# [Star Sand Desert] (./helonia-coast/)
+# [Triatio Highlands](triatio-highlands/)
+![Triatio Highlands](/assets/img/aura-kingdom/triatio-highlands-banner.jpg)
 
-# [Rainmist Reach] (./helonia-coast/)
+<br/><br/>
 
-# [Emerald Marsh] (./helonia-coast/)
+
+# [Candeo Marsh](candeo-marsh/)
+![Candeo Marsh](/assets/img/aura-kingdom/candeo-marsh-banner.jpg)
+
+<br/><br/>
+
+# [Ventos Prairie](ventos-prairie/)
+![Ventos Prairie](/assets/img/aura-kingdom/ventos-prairie-banner.jpg)
+
+<br/><br/>
+
+# [Oblitus Wood](oblitus-wood/)
+![Oblitus Wood](/assets/img/aura-kingdom/oblitus-wood-banner.jpg)
+
+<br/><br/>
+
+# [Star Sand Desert](star-sand-desert/)
+![Star Sand Desert](/assets/img/aura-kingdom/star-sand-desert-banner.jpg)
+
+<br/><br/>
+
+# [Rainmist Reach](rainmist-reach/)
+![Rainmist Reach](/assets/img/aura-kingdom/rainmist-reach-banner.jpg)
+
+<br/><br/>
+
+# [Emerald Marsh](emerald-marsh/)
+![Emerald Marsh](/assets/img/aura-kingdom/emerald-marsh-banner.jpg)
+
+<br/><br/>
 
 # [Starstruck Plateau] (./helonia-coast/)
 
