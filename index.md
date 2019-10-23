@@ -9,5 +9,5 @@ layout: default
 
 <br/><br/>
 
-# Soul Worker
-Coming soon...
+# Soul Worker (coming soon...)
+![SoulWorker](./assets/img/soulworker-banner.jpg)
