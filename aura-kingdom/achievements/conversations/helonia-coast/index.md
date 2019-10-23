@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[back](../) :dash:
+[back](../) ◄ ◄ ◄
 
 ![Helonia Coast Conversations](helonia-coast-conversations.jpg)
 
