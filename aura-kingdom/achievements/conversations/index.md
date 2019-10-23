@@ -14,7 +14,7 @@ layout: default
 
 <br/><br/>
 
-# [Crescent Hill] (crescent-hill/)
+# [Crescent Hill](crescent-hill/)
 ![Crescent Hill](/assets/img/aura-kingdom/crescent-hill-banner.jpg)
 
 # [Cactakara Forest] (./helonia-coast/)
