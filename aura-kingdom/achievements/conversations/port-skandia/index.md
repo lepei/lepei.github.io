@@ -18,4 +18,3 @@ layout: default
 10. [Honesty is the Best Policy](https://youtu.be/cISDI0-9dPU)
 11. [No Rest for the Weary](https://youtu.be/k5k3VrYfIJU)
 12. [Fishing for Compliments](https://youtu.be/jE1AKHQELao)
-
