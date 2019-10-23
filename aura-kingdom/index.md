@@ -4,5 +4,5 @@ layout: default
 
 [back](../)
 
-# [Achievements](./achievements/)
+# [Achievements](achievements/)
 
