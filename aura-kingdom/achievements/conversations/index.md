@@ -5,16 +5,17 @@ layout: default
 [back](../)
 
 # [Port Skandia](port-skandia/)
-![PortSkandia](/assets/img/aura-kingdom/port-skandia-banner.jpg)
+![Port Skandia](/assets/img/aura-kingdom/port-skandia-banner.jpg)
 
 <br/><br/>
 
 # [Helonia Coast](helonia-coast/)
-![HeloniaCoast](/assets/img/aura-kingdom/helonia-coast-banner.jpg)
+![Helonia Coast](/assets/img/aura-kingdom/helonia-coast-banner.jpg)
 
 <br/><br/>
 
-# [Crescent Hill] (./helonia-coast/)
+# [Crescent Hill] (crescent-hill/)
+![Crescent Hill](/assets/img/aura-kingdom/crescent-hill-banner.jpg)
 
 # [Cactakara Forest] (./helonia-coast/)
 
