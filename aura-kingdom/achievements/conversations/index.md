@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](../)
+
 # [Port Skandia](port-skandia/)
 ![PortSkandia](/assets/img/aura-kingdom/port-skandia-banner.jpg)
 
