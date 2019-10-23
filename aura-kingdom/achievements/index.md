@@ -4,6 +4,6 @@ layout: default
 
 [back](../)
 
-# [Conversations](./conversations.md)
+# [Conversations](./conversations/)
 
-# [Oddities](./oddities.md)
+# [Oddities](./oddities/)
