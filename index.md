@@ -5,4 +5,6 @@ layout: default
 
 # [Aura Kingdom](./aurakingdom/)
 
-# ETC.
+![AuraKingdom](./assets/img/aura-kingdom-banner.jpg)
+
+# [Soul Worker]
