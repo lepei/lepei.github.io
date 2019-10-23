@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# [Port Skandia] (port-skandia/)
+# [Port Skandia](port-skandia/)
 ![PortSkandia](/assets/img/aura-kingdom/port-skandia-banner.jpg)
 
 <br/><br/>
 
-# [Helonia Coast] (helonia-coast/)
-![HeloniaCoast](./assets/img/aura-kingdom/helonia-coast-banner.jpg)
+# [Helonia Coast](helonia-coast/)
+![HeloniaCoast](/assets/img/aura-kingdom/helonia-coast-banner.jpg)
 
 <br/><br/>
 
