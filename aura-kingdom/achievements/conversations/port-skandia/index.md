@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](../) :dash:
+
 ![Port Skandia Conversations](port-skandia-conversations.jpg)
 
 1. [Kenny the Pest](https://youtu.be/4EzVVVK5cA4)
@@ -17,4 +19,3 @@ layout: default
 11. [No Rest for the Weary](https://youtu.be/k5k3VrYfIJU)
 12. [Fishing for Compliments](https://youtu.be/jE1AKHQELao)
 
-[back](../)
