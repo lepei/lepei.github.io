@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[back](../) :dash:
+[back](../) < < <
 
 ![Port Skandia Conversations](port-skandia-conversations.jpg)
 
