@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Conversations
+layout: default
 ---
 
 ## Welcome to another page
