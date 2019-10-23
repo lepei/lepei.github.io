@@ -3,6 +3,6 @@ layout: default
 ---
 
 
-# [Achievements](./achievements/)
+# [Aura Kingdom](./aurakingdom/)
 
 # ETC.
