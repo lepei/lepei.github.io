@@ -7,7 +7,7 @@ layout: default
 
 ![AuraKingdom](./assets/img/aura-kingdom-banner.jpg)
 
-
+<br/><br/>
 
 # Soul Worker
 Coming soon...
