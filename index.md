@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# [Aura Kingdom](./aurakingdom/)
+# [Aura Kingdom](./aura-kingdom/)
 
 ![AuraKingdom](./assets/img/aura-kingdom-banner.jpg)
 
