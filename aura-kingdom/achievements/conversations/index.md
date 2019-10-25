@@ -66,9 +66,15 @@ layout: default
 
 <br/><br/>
 
-# [Starstruck Plateau] (./helonia-coast/)
+# [Starstruck Plateau](starstruck-plateau/)
+![Starstruck Plateau](/assets/img/aura-kingdom/starstruck-plateau-banner.jpg)
 
-# [Port Morton] (./helonia-coast/)
+<br/><br/>
+
+# [Port Morton](port-morton/)
+![Port Morton](/assets/img/aura-kingdom/port-morton-banner.jpg)
+
+<br/><br/>
 
 # [Candetonn Hill] (./helonia-coast/)
 
