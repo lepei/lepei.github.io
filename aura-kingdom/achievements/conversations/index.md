@@ -82,7 +82,10 @@ layout: default
 
 <br/><br/>
 
-# [Candetonn Hill] (./helonia-coast/)
+# [Candetonn Hill] (candetonn-hill/)
+![Candetonn Hill](/assets/img/aura-kingdom/candetonn-hill-banner.jpg)
+
+<br/><br/>
 
 # [Viridian Steppe] (./helonia-coast/)
 
