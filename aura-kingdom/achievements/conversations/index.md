@@ -122,6 +122,11 @@ layout: default
 
 <br/><br/>
 
+# [Desolate Desert](desolate-desert/)
+![Desolate Desert](/assets/img/aura-kingdom/desolate-desert-banner.jpg)
+
+<br/><br/>
+
 # [Secret Forest Lake](secret-forest-lake/)
 ![Secret Forest Lake](/assets/img/aura-kingdom/secret-forest-lake-banner.jpg)
 
