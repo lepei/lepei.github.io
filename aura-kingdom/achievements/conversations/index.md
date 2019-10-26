@@ -71,6 +71,12 @@ layout: default
 
 <br/><br/>
 
+
+# [Silent Ice Field](silent-ice-field/)
+![Silent Ice Field](/assets/img/aura-kingdom/silent-ice-field-banner.jpg)
+
+<br/><br/>
+
 # [Port Morton](port-morton/)
 ![Port Morton](/assets/img/aura-kingdom/port-morton-banner.jpg)
 
