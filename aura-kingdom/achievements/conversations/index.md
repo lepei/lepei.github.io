@@ -82,29 +82,52 @@ layout: default
 
 <br/><br/>
 
-# [Candetonn Hill] (candetonn-hill/)
+# [Candetonn Hill](candetonn-hill/)
 ![Candetonn Hill](/assets/img/aura-kingdom/candetonn-hill-banner.jpg)
 
 <br/><br/>
 
-# [Viridian Steppe] (./helonia-coast/)
+# [Viridian Steppe](viridian-steppe/)
+![Viridian Steppe](/assets/img/aura-kingdom/viridian-steppe-banner.jpg)
 
-# [Desolate Valley] (./helonia-coast/)
+<br/><br/>
 
-# [Tanglevine Cascades] (./helonia-coast/)
+# [Desolate Valley](desolate-valley/)
+![Desolate Valley](/assets/img/aura-kingdom/desolate-valley-banner.jpg)
 
-# [Sunhunter's Vale] (./helonia-coast/)
+<br/><br/>
 
-# [Chronology Forest] (./helonia-coast/)
+# [Tanglevine Cascades](tanglevine-cascades/)
+![Tanglevine Cascades](/assets/img/aura-kingdom/tanglevine-cascades-banner.jpg)
 
-# [Tempest Desert] (./helonia-coast/)
+<br/><br/>
 
-# [Frigga Peak] (./helonia-coast/)
+# [Sunhunter's Vale](sunhunters-vale/)
+![Sunhunter's Vale](/assets/img/aura-kingdom/sunhunters-vale-banner.jpg)
 
-# [Secret Forest Lake] (./helonia-coast/)
+<br/><br/>
 
-# [Hidden Valley] (./helonia-coast/)
+# [Chronology Forest](chronology-forest/)
+![Chronology Forest](/assets/img/aura-kingdom/chronology-forest-banner.jpg)
 
-# [Gloomy Ridge] (./helonia-coast/)
+<br/><br/>
 
-# [Drowsy Cave] (./helonia-coast/)
+# [Tempest Desert](tempest-desert/)
+![Tempest Desert](/assets/img/aura-kingdom/tempest-desert-banner.jpg)
+
+<br/><br/>
+
+# [Frigga Peak](frigga-peak/)
+![Frigga Peak](/assets/img/aura-kingdom/frigga-peak-banner.jpg)
+
+<br/><br/>
+
+# [Secret Forest Lake](secret-forest-lake/)
+![Secret Forest Lake](/assets/img/aura-kingdom/secret-forest-lake-banner.jpg)
+
+<br/><br/>
+
+# [Hidden Valley](hidden-valley/)
+![Hidden Valley](/assets/img/aura-kingdom/hidden-valley-banner.jpg)
+
+<br/><br/>
