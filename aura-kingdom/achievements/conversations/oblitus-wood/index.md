@@ -16,3 +16,5 @@ layout: default
 8. [Refugees](https://youtu.be/AFkaopH2cuo)
 9. [Faded Beauty](https://youtu.be/rLZbiniWCLM)
 10. [Undying Love](https://youtu.be/DpILWQJlJ64)
+
+After completing all above Achievements, you will gain **Oblitus Wood Explorer**, and a title "World Traveler".
