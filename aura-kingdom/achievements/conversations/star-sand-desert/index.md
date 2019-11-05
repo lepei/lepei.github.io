@@ -15,3 +15,5 @@ layout: default
 8. [Archaeological Study](https://youtu.be/iGW3R0dd9Jw)
 9. [Stopping for Directions](https://youtu.be/SPhGA5RHkpc)
 10. [Anything for Love](https://youtu.be/I4xAX8Yuwfk)
+
+After completing all above Achievements, you will gain **Star Sand Desert Explorer**, and a title "Dune Walker".
