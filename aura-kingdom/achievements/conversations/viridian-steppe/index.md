@@ -15,3 +15,5 @@ layout: default
 8. [Sticking Together](https://youtu.be/twTC14RII2s)
 9. [The Dangers of Botany](https://youtu.be/UQzZ4jiRjL4)
 10. [Burning Curiosity](https://youtu.be/WNPTIMx4Eus)
+
+After completing all above Achievements, you will gain **Viridian Steppe Explorer**, and a title "Steppe Stepper".
