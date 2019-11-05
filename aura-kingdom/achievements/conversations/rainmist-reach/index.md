@@ -15,3 +15,5 @@ layout: default
 8. [Mushroom Perfume](https://youtu.be/qETIuWRLK8I)
 9. [Contingency Plan](https://youtu.be/cBcMP4nGlnI)
 10. [You Are My Sunshine](https://youtu.be/WggnjjaFAIA)
+
+After completing all above Achievements, you will gain **Rainmist Reach Explorer**, and a title "Rainmist Reach Informant".
