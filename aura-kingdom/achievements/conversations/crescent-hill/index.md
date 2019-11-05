@@ -16,3 +16,5 @@ layout: default
 8. [A Kind Heart](https://youtu.be/IvylwuNg-XM)
 9. [Early to Bed, Early to Rise](https://youtu.be/BG-_8vg_QwY)
 10. [Unusual Tastes](https://youtu.be/YVgZJct4fBM)
+
+After completing all above Achievements, you will gain **Crescent Hill Explorer**, and a title "Dancer".
