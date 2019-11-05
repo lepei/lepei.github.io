@@ -16,3 +16,5 @@ layout: default
 8. [Crazy Doctor](https://youtu.be/on9fSkiyzsM)
 9. [Turf War](https://youtu.be/HkzoozC5-xk)
 10. [Dance Magic Dance](https://youtu.be/0Y8vnuwdMys)
+
+After completing all above Achievements, you will gain **Demarech Mines Explorer**, and a title "Miner".
