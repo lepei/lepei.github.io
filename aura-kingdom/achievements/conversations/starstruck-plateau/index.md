@@ -15,3 +15,5 @@ layout: default
 8. [The Last Ditch](https://youtu.be/w6nXJnqnh8s)
 9. [The Rookie](https://youtu.be/L2mr7nWpUAI)
 10. [Live and Let Love](https://youtu.be/_irgWqJZZDQ)
+
+After completing all above Achievements, you will gain **Starstruck Wanderer**, and a title "Starstruck Plateau Cavalry Scout".
