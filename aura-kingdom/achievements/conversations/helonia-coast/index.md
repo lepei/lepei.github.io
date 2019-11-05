@@ -16,3 +16,5 @@ layout: default
 8. [A Bright Young Mind](https://youtu.be/Ehywml26IXU)
 9. [Kids Say the Darndest Things](https://youtu.be/Su9xRw-5540)
 10. [Bad Behavior](https://youtu.be/_4xPRjtCZZ4)
+
+After completing all above Achievements, you will gain **Helonia Coast Explorer**, and a title "Shore Runner".
