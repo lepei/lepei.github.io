@@ -16,3 +16,5 @@ layout: default
 8. [How to Save a Life](https://youtu.be/C_ZNm9Nca0I)
 9. [Thief's Honor](https://youtu.be/yR4U-XkRBuc)
 10. [Lost in Love](https://youtu.be/ZUFqxQ9dHuI)
+
+After completing all above Achievements, you will gain **Candeo Marsh Explorer**, and a title "Swamp Thing".
