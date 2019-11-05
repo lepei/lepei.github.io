@@ -15,3 +15,5 @@ layout: default
 8. [Waiting is the Hardest Part](https://youtu.be/WAdDxIjru1M)
 9. [Worst Time to Cry](https://youtu.be/1Mytkh8hJmw)
 10. [Dream Lover](https://youtu.be/tt2riBt8YXA)
+
+After completing all above Achievements, you will gain **Emerald Marsh Explorer**, and a title "Emerald Marsh Expert".
