@@ -15,3 +15,5 @@ layout: default
 8. [Come One, Come All!](https://youtu.be/2pS_mjHMPFE)
 9. [A Dissatisfied Workforce](https://youtu.be/MUO_hFc00Uk)
 10. [Tiny Bubbles](https://youtu.be/NKbNmmbdeb0)
+
+After completing all above Achievements, you will gain **Port Morton Explorer**, and a title "Shooting the Breeze".
