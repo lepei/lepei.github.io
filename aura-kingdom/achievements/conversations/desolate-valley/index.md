@@ -15,3 +15,6 @@ layout: default
 8. [The Importance of Dreams](https://youtu.be/F7VPj3oo9OQ)
 9. [You Owe Me](https://youtu.be/z6sNp6aqYKY)
 10. [Better Safe Than Sorry](https://youtu.be/TbNcdmhqyOs)
+
+After completing all above Achievements, you will gain **Desolate Valley Expert**, and a title "Valley Girl
+".
