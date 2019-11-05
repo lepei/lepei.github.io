@@ -17,3 +17,5 @@ layout: default
 9. [Thirst for Adventure](https://youtu.be/JKDvpVuZTkA)
 10. [Lion or Mouse](https://youtu.be/jYalaQdSQLo)
 11. [Star Crossed](https://youtu.be/QJUNeepq2qk)
+
+After completing all above Achievements, you will gain **Triatio Highlands Explorer**, and a title "Highland Brave".
