@@ -16,4 +16,4 @@ layout: default
 9. [Keen Observer](https://youtu.be/V6g6AKGw6d8)
 10. [One Man's Trash...](https://youtu.be/YMUOe3GddPk)
 
-After completing all above Achievements, you will gain **Desolate Valley Expert**, and a title "Valley Girl".
+After completing all above Achievements, you will gain **Tanglevine Eavesdropper**, and a title "Tanglevine Eavesdropper".
