@@ -15,3 +15,5 @@ layout: default
 8. [Equally Weakly](https://youtu.be/KED9NU6qj9w)
 9. [Hush Now](https://youtu.be/qLH0GfrzGyw)
 10. [Keep Calm and Carry on](https://youtu.be/G-GlGKYWtf0)
+
+After completing all above Achievements, you will gain **Sunhunter Eavesdropper**, and a title "Sunhunter Eavesdropper".
