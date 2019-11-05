@@ -15,3 +15,5 @@ layout: default
 8. [Experience Matters](https://youtu.be/WC5infbj-1E)
 9. [Keen Observer](https://youtu.be/V6g6AKGw6d8)
 10. [One Man's Trash...](https://youtu.be/YMUOe3GddPk)
+
+After completing all above Achievements, you will gain **Desolate Valley Expert**, and a title "Valley Girl".
