@@ -15,3 +15,5 @@ layout: default
 8. [Casting a Long Shadow](https://youtu.be/rzs8PClsUzg)
 9. [Sticking Together](https://youtu.be/I6T7BhvYSOE)
 10. [Winter Serenade](https://youtu.be/r5ECx0JyPrM)
+
+After completing all above Achievements, you will gain **Chilly Trekker**, and a title "Silent Ice Field Scout".
