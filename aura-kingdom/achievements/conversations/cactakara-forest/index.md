@@ -16,3 +16,5 @@ layout: default
 8. [Stealth Hunt](https://youtu.be/StMhmrkLNb4)
 9. [Over the Rainbow](https://youtu.be/3zFXagfJfDA)
 10. [The Next Step](https://youtu.be/WlBhTiklykU)
+
+After completing all above Achievements, you will gain **Cactakara Forest Explorer**, and a title "Forest Hunter".
