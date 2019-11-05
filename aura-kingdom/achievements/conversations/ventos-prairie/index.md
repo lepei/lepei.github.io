@@ -16,3 +16,5 @@ layout: default
 8. [Age-Old Secret](https://youtu.be/SBNFTggtGWM)
 9. [Hail to the King](https://youtu.be/6gNI196C2ag)
 10. [The Proposal](https://youtu.be/mXdR-vckoc4)
+
+After completing all above Achievements, you will gain **Ventos Prairie Explorer**, and a title "Prairie Runner".
