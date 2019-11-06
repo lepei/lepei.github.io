@@ -4,6 +4,9 @@ layout: default
 
 [back](../) < < <
 
+# [Navea](navea/)
+![Navea](/assets/img/aura-kingdom/navea-banner.jpg)
+
 # [Port Skandia](port-skandia/)
 ![Port Skandia](/assets/img/aura-kingdom/port-skandia-banner.jpg)
 
