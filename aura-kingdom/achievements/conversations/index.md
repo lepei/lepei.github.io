@@ -127,12 +127,12 @@ layout: default
 
 <br/><br/>
 
-# [Secret Forest Lake](secret-forest-lake/)
+# [Secret Forest Lake](secret-forest-lake/) (coming soon...)
 ![Secret Forest Lake](/assets/img/aura-kingdom/secret-forest-lake-banner.jpg)
 
 <br/><br/>
 
-# [Hidden Valley](hidden-valley/)
+# [Hidden Valley](hidden-valley/) (coming soon...)
 ![Hidden Valley](/assets/img/aura-kingdom/hidden-valley-banner.jpg)
 
 <br/><br/>
