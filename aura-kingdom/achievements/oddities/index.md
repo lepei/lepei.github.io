@@ -7,6 +7,8 @@ layout: default
 # [Navea](navea/)
 ![Navea](/assets/img/aura-kingdom/navea-banner.jpg)
 
+<br/><br/>
+
 # [Port Skandia](port-skandia/)
 ![Port Skandia](/assets/img/aura-kingdom/port-skandia-banner.jpg)
 
