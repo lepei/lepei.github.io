@@ -15,3 +15,4 @@ layout: default
 8. [End of the Holy Fire](https://youtu.be/O6yCTYSzUMc)
 9. [Come Here! Let Them Eat Dirt!](https://youtu.be/qKepunMgP0I)
 10. [Now This is Love!](https://youtu.be/7MhDGcyMdNI)
+11. [Awaking the Goddess](https://youtu.be/9SRFWpUuQBQ)(Bonus)
