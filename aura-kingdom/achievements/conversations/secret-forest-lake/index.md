@@ -10,3 +10,5 @@ layout: default
 3. [Cursed Food Thief]() (X: 50, Y: 448)
 4. [Fighting Food]() (X: 568, Y: 202)
 5. [More Lovable Than Radish]() (X: 481, Y: 705)
+
+After completing all above Achievements, you will gain **Secret Forest Lake Snooper**, and a title "Journeymen".
