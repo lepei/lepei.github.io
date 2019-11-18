@@ -137,7 +137,7 @@ layout: default
 
 <br/><br/>
 
-# [Hidden Valley](hidden-valley/) (coming soon...)
+# [Hidden Valley]() (coming soon...)
 ![Hidden Valley](/assets/img/aura-kingdom/hidden-valley-banner.jpg)
 
 <br/><br/>
