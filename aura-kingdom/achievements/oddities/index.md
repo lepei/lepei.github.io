@@ -132,7 +132,7 @@ layout: default
 
 <br/><br/>
 
-# [Secret Forest Lake](secret-forest-lake/) (coming soon...)
+# [Secret Forest Lake](secret-forest-lake/)
 ![Secret Forest Lake](/assets/img/aura-kingdom/secret-forest-lake-banner.jpg)
 
 <br/><br/>
