@@ -5,10 +5,10 @@ layout: default
 [back](../) < < < <
 
 ![Secret Forest Lake Conversations](secret-forest-lake-conversations.jpg)
-1. [Satisfy Hunger]() (X: 158, Y: 778)
-2. [Dinner's Waiting]() (X: 158, Y: 327)
-3. [Cursed Food Thief]() (X: 50, Y: 448)
-4. [Fighting Food]() (X: 568, Y: 202)
-5. [More Lovable Than Radish]() (X: 481, Y: 705)
+1. [Satisfy Hunger](https://youtu.be/cH0-CJLOjWk) 
+2. [Dinner's Waiting](https://youtu.be/J0U2A7eNDwE) 
+3. [Cursed Food Thief](https://youtu.be/gTjN9hFfs64) 
+4. [Fighting Food](https://youtu.be/y8cVp40Rvmg) 
+5. [More Lovable Than Radish](https://youtu.be/QLcYsKu-66Y) 
 
 After completing all above Achievements, you will gain **Secret Forest Lake Snooper**, and a title "Journeymen".
