@@ -17,4 +17,4 @@ layout: default
 9. [Hail to the King](https://youtu.be/6gNI196C2ag)
 10. [The Proposal](https://youtu.be/mXdR-vckoc4)
 
-After completing all above Achievements, you will gain **Ventos Prairie Explorer**, and a title "Prairie Runner".
+After completing all above Achievements, you will gain [**Ventos Prairie Explorer**](https://www.aurakingdom-db.com/achievement/211-ventos-prairie-explorer), and a title "[Prairie Runner](https://www.aurakingdom-db.com/title/18-prairie-runner)".

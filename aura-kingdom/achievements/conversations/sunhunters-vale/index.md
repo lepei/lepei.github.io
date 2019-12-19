@@ -16,4 +16,4 @@ layout: default
 9. [Hush Now](https://youtu.be/qLH0GfrzGyw)
 10. [Keep Calm and Carry on](https://youtu.be/G-GlGKYWtf0)
 
-After completing all above Achievements, you will gain **Sunhunter Eavesdropper**, and a title "Sunhunter Eavesdropper".
+After completing all above Achievements, you will gain [**Sunhunter Eavesdropper**](https://www.aurakingdom-db.com/achievement/323-sunhunter-eavesdropper), and a title "[Sunhunter Eavesdropper](https://www.aurakingdom-db.com/title/1290-sunhunter-eavesdropper)".

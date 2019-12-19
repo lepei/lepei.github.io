@@ -16,4 +16,4 @@ layout: default
 9. [Judging a Book by Its Cover](https://youtu.be/Phi5QdtY6Ow)
 10. [Apple of My Eye](https://youtu.be/Y3z8mDRL6zY)
 
-After completing all above Achievements, you will gain **Candetonn Hill Explorer**, and a title "Running Up That Hill".
+After completing all above Achievements, you will gain [**Candetonn Hill Explorer**](https://www.aurakingdom-db.com/achievement/279-candetonn-hill-explorer), and a title "[Running Up That Hill](https://www.aurakingdom-db.com/title/1011-running-up-that-hill)".

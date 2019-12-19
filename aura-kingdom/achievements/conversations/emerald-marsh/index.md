@@ -16,4 +16,4 @@ layout: default
 9. [Worst Time to Cry](https://youtu.be/1Mytkh8hJmw)
 10. [Dream Lover](https://youtu.be/tt2riBt8YXA)
 
-After completing all above Achievements, you will gain **Emerald Marsh Explorer**, and a title "Emerald Marsh Expert".
+After completing all above Achievements, you will gain [**Emerald Marsh Explorer**](https://www.aurakingdom-db.com/achievement/235-emerald-marsh-explorer), and a title "[Emerald Marsh Expert](https://www.aurakingdom-db.com/title/557-emerald-marsh-expert)".

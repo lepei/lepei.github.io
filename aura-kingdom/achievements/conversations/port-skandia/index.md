@@ -19,4 +19,4 @@ layout: default
 11. [No Rest for the Weary](https://youtu.be/k5k3VrYfIJU)
 12. [Fishing for Compliments](https://youtu.be/jE1AKHQELao)
 
-After completing all above Achievements, you will gain **Port Skandia Explorer**, and a title "Fisher Kid".
+After completing all above Achievements, you will gain [**Port Skandia Explorer**](https://www.aurakingdom-db.com/achievement/204-port-skandia-explorer), and a title "[Fisher Kid](https://www.aurakingdom-db.com/title/11-fisher-kid)".

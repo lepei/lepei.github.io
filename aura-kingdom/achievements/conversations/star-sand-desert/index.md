@@ -16,4 +16,4 @@ layout: default
 9. [Stopping for Directions](https://youtu.be/SPhGA5RHkpc)
 10. [Anything for Love](https://youtu.be/I4xAX8Yuwfk)
 
-After completing all above Achievements, you will gain **Star Sand Desert Explorer**, and a title "Dune Walker".
+After completing all above Achievements, you will gain [**Star Sand Desert Explorer**](https://www.aurakingdom-db.com/achievement/213-star-sand-desert-explorer), and a title "[Dune Walker](https://www.aurakingdom-db.com/title/20-dune-walker)".

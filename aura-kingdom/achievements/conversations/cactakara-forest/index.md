@@ -17,4 +17,4 @@ layout: default
 9. [Over the Rainbow](https://youtu.be/3zFXagfJfDA)
 10. [The Next Step](https://youtu.be/WlBhTiklykU)
 
-After completing all above Achievements, you will gain **Cactakara Forest Explorer**, and a title "Forest Hunter".
+After completing all above Achievements, you will gain [**Cactakara Forest Explorer**](https://www.aurakingdom-db.com/achievement/207-cactakara-forest-explorer), and a title "[Forest Hunter](https://www.aurakingdom-db.com/title/14-forest-hunter)".

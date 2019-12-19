@@ -16,4 +16,4 @@ layout: default
 9. [Mountaineer](https://youtu.be/aU_v3tITibM)
 10. [Romeo, King of Romance](https://youtu.be/hvz0dXjut9A)
 
-After completing all above Achievements, you will gain **Listen carefully to the Desolate Desert Explorer**, and a title "Dusty Desert Traveler".
+After completing all above Achievements, you will gain [**Listen carefully to the Desolate Desert Explorer**](https://www.aurakingdom-db.com/achievement/367-listen-carefully-to-the-desolate-desert-explorer), and a title "[Dusty Desert Traveler](https://www.aurakingdom-db.com/title/1569-dusty-desert-traveler)".
