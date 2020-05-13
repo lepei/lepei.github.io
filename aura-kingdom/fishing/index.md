@@ -14,12 +14,12 @@ layout: default
 
 <br/><br/>
 
-# [Speed](skill/)
+# [Speed](speed/)
 ![Speed](../../assets/img/aura-kingdom/fishing-speed-banner.jpg)
 
 <br/><br/>
 
-# [Versatile](skill/)
+# [Versatile](versatile/)
 ![Versatile](../../assets/img/aura-kingdom/fishing-versatile-banner.jpg)
 
 <br/><br/>
