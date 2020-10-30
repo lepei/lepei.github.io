@@ -14,7 +14,7 @@ layout: default
 
 <br/><br/>
 
-# [Stardust Island](stardust-island/) ``- (NEW)``
+# [Stardust Island](stardust-island/) <span style="color:red">some **This is Red Bold.** text</span>
 ![Stardust Island](/assets/img/aura-kingdom/stardust-island-banner.jpg)
 
 <br/><br/>
