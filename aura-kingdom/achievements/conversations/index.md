@@ -14,6 +14,11 @@ layout: default
 
 <br/><br/>
 
+# [Stardust Island](stardust-island/) &#x1F538;``NEW``
+![Stardust Island](/assets/img/aura-kingdom/stardust-island-banner.jpg)
+
+<br/><br/>
+
 # [Crescent Hill](crescent-hill/)
 ![Crescent Hill](../../../assets/img/aura-kingdom/crescent-hill-banner.jpg)
 
