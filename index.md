@@ -15,5 +15,5 @@ layout: home
 
 <br/><br/>
 
-# Soul Worker 
+# SoulWorker 
 ![SoulWorker](./assets/img/soulworker-banner.jpg)
