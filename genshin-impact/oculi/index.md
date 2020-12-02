@@ -10,4 +10,3 @@ layout: home
 <br/><br/>
 
 # Geoculus
-![Geoculus](/assets/img/genshin-impact/geoculus-banner.jpg)
