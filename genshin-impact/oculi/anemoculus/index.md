@@ -29,7 +29,7 @@ layout: default
 21. [Anemoculus #21](https://youtu.be/RZP2d0uo6ag). Located in the air above the column.
 22. [Anemoculus #22](https://youtu.be/Ez9THKT1EgU). Located on top of the wood logs.
 23. [Anemoculus #23](https://youtu.be/g5L3cXdlp7A). Located inside a large hut.
-24  [Anemoculus #24](https://youtu.be/vOtc3uN8Uig). Located at the edge of a small cliff.
+24.  [Anemoculus #24](https://youtu.be/vOtc3uN8Uig). Located at the edge of a small cliff.
 25. [Anemoculus #25](https://youtu.be/EkH9TZVH0oU). Located in the air.
 26. [Anemoculus #26](https://youtu.be/av5k3vfvbz8). Located slightly off of the edge of the cliff.
 27. [Anemoculus #27](https://youtu.be/7HH4_ek83Z4). Located at the edge of the cliff.
