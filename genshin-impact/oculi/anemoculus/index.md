@@ -29,3 +29,16 @@ layout: default
 21. [Anemoculus #21](https://youtu.be/RZP2d0uo6ag). Located in the air above the column.
 22. [Anemoculus #22](https://youtu.be/Ez9THKT1EgU). Located on top of the wood logs.
 23. [Anemoculus #23](https://youtu.be/g5L3cXdlp7A). Located inside a large hut.
+24  [Anemoculus #24](https://youtu.be/vOtc3uN8Uig). Located at the edge of a small cliff.
+25. [Anemoculus #25](https://youtu.be/EkH9TZVH0oU). Located in the air.
+26. [Anemoculus #26](https://youtu.be/av5k3vfvbz8). Located slightly off of the edge of the cliff.
+27. [Anemoculus #27](https://youtu.be/7HH4_ek83Z4). Located at the edge of the cliff.
+28. [Anemoculus #28](https://youtu.be/99HOqSHO8aY). Located above the house.
+29. [Anemoculus #29](https://youtu.be/V-nxnXdp6Yg). Located at the end of the cliff.
+30. [Anemoculus #30](https://youtu.be/A5JFaKepMoo). Located in the air.
+31. [Anemoculus #31](https://youtu.be/Bg1AXqGhG-A). Located on the underside of the cliff.
+32. [Anemoculus #32](https://youtu.be/mhphop-vIqM). Located on top of the Dawn Winery.
+33. [Anemoculus #33](https://youtu.be/Fbj6x9OL0nM). Located high in the air.
+34. [Anemoculus #34](https://youtu.be/WMHdc-L_t_U). Located above the water.
+35. [Anemoculus #35](https://youtu.be/iJRwkIGnq5o). Located on top of a stone pillar.
+36. [Anemoculus #36](https://youtu.be/pwE3nSNur4A). Located in the air.
