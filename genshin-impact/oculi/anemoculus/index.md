@@ -42,3 +42,18 @@ layout: default
 34. [Anemoculus #34](https://youtu.be/WMHdc-L_t_U). Located above the water.
 35. [Anemoculus #35](https://youtu.be/iJRwkIGnq5o). Located on top of a stone pillar.
 36. [Anemoculus #36](https://youtu.be/pwE3nSNur4A). Located in the air.
+37. [Anemoculus #37](https://youtu.be/yjDK87Qa-68). Located in the tree.
+38. [Anemoculus #38](https://youtu.be/tkwOgzpm57o). Located in the air.
+39. [Anemoculus #39](https://youtu.be/9A6NWEDQSg8). Located hidden inside the rocks.
+40. [Anemoculus #40](https://youtu.be/S6qtJoPGRr4). Located in the grass, on the ground.
+41. [Anemoculus #41](https://youtu.be/afgpplHKEFs). Located in the air.
+42. [Anemoculus #42](https://youtu.be/Tgi4AcT7JIY). Located on the ground.
+43. [Anemoculus #43](https://youtu.be/sSB8IKWib_c). Located on the edge of the cliff.
+44. [Anemoculus #44](https://youtu.be/xeVQpzOmTGo). Located on top of the tree.
+45. [Anemoculus #45](https://youtu.be/pgkNHyicNLA). Located inside the rock.
+46. [Anemoculus #46](https://youtu.be/mbzsi91s6Iw). Located in the air.
+47. [Anemoculus #47](https://youtu.be/_bUYxDigdgs). Located inside the barrier.
+48. [Anemoculus #48](https://youtu.be/96OexEDrGg8). Located under the stairs.
+49. [Anemoculus #49](https://youtu.be/VuCMrl_2ttE). Located at the very top of the Storm Terror tower.
+50. [Anemoculus #50](https://youtu.be/Q5yfNl1kC_0). Located above the Ruin Guard.
+
