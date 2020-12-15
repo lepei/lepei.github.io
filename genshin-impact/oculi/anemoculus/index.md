@@ -56,4 +56,18 @@ layout: default
 48. [Anemoculus #48](https://youtu.be/96OexEDrGg8). Located under the stairs.
 49. [Anemoculus #49](https://youtu.be/VuCMrl_2ttE). Located at the very top of the Storm Terror tower.
 50. [Anemoculus #50](https://youtu.be/Q5yfNl1kC_0). Located above the Ruin Guard.
-
+51. [Anemoculus #51](https://youtu.be/1icwBPO2E1s). Located under the cliff.
+52. [Anemoculus #52](https://youtu.be/HMpoz7T7EWc). Located hidden in a cave on the ground.
+53. [Anemoculus #53](https://youtu.be/v7_OWEYP1TI). Located up in the tree.
+54. [Anemoculus #54](https://youtu.be/13davbejnTQ). Located high in the sky.
+55. [Anemoculus #55](https://youtu.be/XLWnQSSeO5Y). Located at the top of pillar.
+56. [Anemoculus #56](https://youtu.be/aJOddMwGCms). Located on top of the stone ring.
+57. [Anemoculus #57](https://youtu.be/fS6-C3NGA6U). Located in the air.
+58. [Anemoculus #58](https://youtu.be/X1WwmEd2tMM). Located inside the large stone pillar.
+59. [Anemoculus #59](https://youtu.be/cynu23fGlCY). Located underneath the arch.
+60. [Anemoculus #60](https://youtu.be/dko5LpbRbEo). Located in the air.
+61. [Anemoculus #61](https://youtu.be/OP-Z1H7_egE). Located in the sky.
+62. [Anemoculus #62](https://youtu.be/xiyPWtS8wh8). Located in the sky.
+63. [Anemoculus #63](https://youtu.be/IFx3C1LBBg0). Located over the water.
+64. [Anemoculus #64](https://youtu.be/vKt5Ey_IEzY). Located on the secret island.
+65. [Anemoculus #65](https://youtu.be/FXEboPhel_U). Located on top of the Spiral Abyss portal.
