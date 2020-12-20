@@ -71,3 +71,4 @@ layout: default
 63. [Anemoculus #63](https://youtu.be/IFx3C1LBBg0). Located over the water.
 64. [Anemoculus #64](https://youtu.be/vKt5Ey_IEzY). Located on the secret island.
 65. [Anemoculus #65](https://youtu.be/FXEboPhel_U). Located on top of the Spiral Abyss portal.
+66. [Anemoculus #66](https://youtu.be/6DgYZKZxj9g). Located inside the Dragon's Breath.
