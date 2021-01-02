@@ -9,5 +9,11 @@ layout: home
 
 <br/><br/>
 
-# Soul Worker (coming soon...)
+# [Genshin Impact](./genshin-impact/)
+
+![AuraKingdom](./assets/img/genshin-impact-banner.jpg)
+
+<br/><br/>
+
+# SoulWorker 
 ![SoulWorker](./assets/img/soulworker-banner.jpg)
