@@ -17,4 +17,4 @@ layout: default
 9. [Flowers in the Greenhouse](https://youtu.be/GhHQ5N6rlLg)
 10. [Lamia's Wish](https://youtu.be/JhZxW-2OlEA)
 
-After completing all above Achievements, you will gain **Listen to the Stardust Island villagers**, and a title "Secluded Area".
+After completing all above Achievements, you will gain [**Listen to the Stardust Island villagers**](https://www.aurakingdom-db.com/achievement/434-listen-to-the-stardust-island-villagers), and a title "[Secluded Area](https://www.aurakingdom-db.com/title/2095-secluded-area)".

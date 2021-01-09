@@ -16,5 +16,4 @@ layout: default
 9. [You Owe Me](https://youtu.be/z6sNp6aqYKY)
 10. [Better Safe Than Sorry](https://youtu.be/TbNcdmhqyOs)
 
-After completing all above Achievements, you will gain **Desolate Valley Expert**, and a title "Valley Girl
-".
+After completing all above Achievements, you will gain [**Desolate Valley Expert**](https://www.aurakingdom-db.com/achievement/301-desolate-valley-expert), and a title "[Valley Girl](https://www.aurakingdom-db.com/title/1149-valley-girl)".

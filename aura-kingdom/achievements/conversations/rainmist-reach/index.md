@@ -16,4 +16,4 @@ layout: default
 9. [Contingency Plan](https://youtu.be/cBcMP4nGlnI)
 10. [You Are My Sunshine](https://youtu.be/WggnjjaFAIA)
 
-After completing all above Achievements, you will gain **Rainmist Reach Explorer**, and a title "Rainmist Reach Informant".
+After completing all above Achievements, you will gain [**Rainmist Reach Explorer**](https://www.aurakingdom-db.com/achievement/234-rainmist-reach-explorer), and a title "[Rainmist Reach Informant](https://www.aurakingdom-db.com/title/556-rainmist-reach-informant)".

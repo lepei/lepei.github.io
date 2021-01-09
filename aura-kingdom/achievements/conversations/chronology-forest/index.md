@@ -16,4 +16,4 @@ layout: default
 9. [Too Beautiful to Bear](https://youtu.be/fUrDEKo86E8)
 10. [The Fighting Elite](https://youtu.be/RUp5CmhY_EU)
 
-After completing all above Achievements, you will gain **Listen to the voices of those who dwell in the Chronology Forest**, and a title "The Great Men of the Magic Period".
+After completing all above Achievements, you will gain [**Listen to the voices of those who dwell in the Chronology Forest**](https://www.aurakingdom-db.com/achievement/334-listen-to-the-voices-of-those-who-dwell-in-the-chronology-forest), and a title "[The Great Men of the Magic Period](https://www.aurakingdom-db.com/title/1386-the-great-men-of-the-magic-period)".

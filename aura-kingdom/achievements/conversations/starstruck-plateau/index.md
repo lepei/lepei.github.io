@@ -16,4 +16,4 @@ layout: default
 9. [The Rookie](https://youtu.be/L2mr7nWpUAI)
 10. [Live and Let Love](https://youtu.be/_irgWqJZZDQ)
 
-After completing all above Achievements, you will gain **Starstruck Wanderer**, and a title "Starstruck Plateau Cavalry Scout".
+After completing all above Achievements, you will gain [**Starstruck Wanderer**](https://www.aurakingdom-db.com/achievement/256-starstruck-wanderer), and a title "[Starstruck Plateau Cavalry Scout](https://www.aurakingdom-db.com/title/652-starstruck-plateau-cavalry-scout)".

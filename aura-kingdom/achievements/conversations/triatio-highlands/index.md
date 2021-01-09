@@ -18,4 +18,4 @@ layout: default
 10. [Lion or Mouse](https://youtu.be/jYalaQdSQLo)
 11. [Star Crossed](https://youtu.be/QJUNeepq2qk)
 
-After completing all above Achievements, you will gain **Triatio Highlands Explorer**, and a title "Highland Brave".
+After completing all above Achievements, you will gain [**Triatio Highlands Explorer**](https://www.aurakingdom-db.com/achievement/209-triatio-highlands-explorer), and a title "[Highland Brave](https://www.aurakingdom-db.com/title/16-highland-brave)".

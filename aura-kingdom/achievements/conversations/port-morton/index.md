@@ -16,4 +16,4 @@ layout: default
 9. [A Dissatisfied Workforce](https://youtu.be/MUO_hFc00Uk)
 10. [Tiny Bubbles](https://youtu.be/NKbNmmbdeb0)
 
-After completing all above Achievements, you will gain **Port Morton Explorer**, and a title "Shooting the Breeze".
+After completing all above Achievements, you will gain [**Port Morton Explorer**](https://www.aurakingdom-db.com/achievement/268-port-morton-explorer), and a title "[Shooting the Breeze](https://www.aurakingdom-db.com/title/1006-shooting-the-breeze)".

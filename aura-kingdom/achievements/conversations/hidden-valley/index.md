@@ -12,4 +12,4 @@ layout: default
 4. [Comforting a Broken Heart](https://youtu.be/z3bk99Qzt2k)
 5. [Dazzling Flash](https://youtu.be/hZlMnSOiBhA)
 
-After completing all above Achievements, you will gain **Hidden Valley Snooper**, and a title "Hermit".
+After completing all above Achievements, you will gain [**Hidden Valley Snooper**](https://www.aurakingdom-db.com/achievement/379-hidden-valley-snooper), and a title "[Hermit](https://www.aurakingdom-db.com/title/1697-hermit)".

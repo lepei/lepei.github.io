@@ -16,4 +16,4 @@ layout: default
 9. [Sticking Together](https://youtu.be/I6T7BhvYSOE)
 10. [Winter Serenade](https://youtu.be/r5ECx0JyPrM)
 
-After completing all above Achievements, you will gain **Chilly Trekker**, and a title "Silent Ice Field Scout".
+After completing all above Achievements, you will gain [**Chilly Trekker**](https://www.aurakingdom-db.com/achievement/257-chilly-trekker), and a title "[Silent Ice Field Scout](https://www.aurakingdom-db.com/title/653-silent-ice-field-scout)".

@@ -17,4 +17,4 @@ layout: default
 9. [Kids Say the Darndest Things](https://youtu.be/Su9xRw-5540)
 10. [Bad Behavior](https://youtu.be/_4xPRjtCZZ4)
 
-After completing all above Achievements, you will gain **Helonia Coast Explorer**, and a title "Shore Runner".
+After completing all above Achievements, you will gain [**Helonia Coast Explorer**](https://www.aurakingdom-db.com/achievement/205-helonia-coast-explorer), and a title "[Shore Runner](https://www.aurakingdom-db.com/title/12-shore-runner)".

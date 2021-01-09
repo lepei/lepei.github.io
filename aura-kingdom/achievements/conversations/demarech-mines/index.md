@@ -17,4 +17,4 @@ layout: default
 9. [Turf War](https://youtu.be/HkzoozC5-xk)
 10. [Dance Magic Dance](https://youtu.be/0Y8vnuwdMys)
 
-After completing all above Achievements, you will gain **Demarech Mines Explorer**, and a title "Miner".
+After completing all above Achievements, you will gain [**Demarech Mines Explorer**](https://www.aurakingdom-db.com/achievement/208-demarech-mines-explorer), and a title "[Miner](http://www.aurakingdom-db.com/title/15-miner)".

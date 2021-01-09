@@ -16,4 +16,4 @@ layout: default
 9. [Hello, Handyman](https://youtu.be/BjyDOKjJQV4)
 10. [Out in the Cold](https://youtu.be/XxqOA502y_k)
 
-After completing all above Achievements, you will gain **Listen to the People on Frigga Peak**, and a title "Extreme Tundra Envoy".
+After completing all above Achievements, you will gain [**Listen to the People on Frigga Peak**](https://www.aurakingdom-db.com/achievement/356-listen-to-the-people-on-frigga-peak), and a title "[Extreme Tundra Envoy](https://www.aurakingdom-db.com/title/1568-extreme-tundra-envoy)".

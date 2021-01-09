@@ -16,4 +16,4 @@ layout: default
 9. [Hide-and-Seek Champion](https://youtu.be/1Khkkn8ibIE)
 10. [Homesick](https://youtu.be/cl81VdH9gmc)
 
-After completing all above Achievements, you will gain **Listen to the voices of those who dwell in the Tempest Desert**, and a title "Whizzing across the Tempest Desert".
+After completing all above Achievements, you will gain [**Listen to the voices of those who dwell in the Tempest Desert**](https://www.aurakingdom-db.com/achievement/345-listen-to-the-voices-of-those-who-dwell-in-the-tempest-desert), and a title "[Whizzing across the Tempest Desert](https://www.aurakingdom-db.com/title/1387-whizzing-across-the-tempest-desert)".

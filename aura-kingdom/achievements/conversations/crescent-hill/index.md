@@ -17,4 +17,4 @@ layout: default
 9. [Early to Bed, Early to Rise](https://youtu.be/BG-_8vg_QwY)
 10. [Unusual Tastes](https://youtu.be/YVgZJct4fBM)
 
-After completing all above Achievements, you will gain **Crescent Hill Explorer**, and a title "Dancer".
+After completing all above Achievements, you will gain [**Crescent Hill Explorer**](https://www.aurakingdom-db.com/achievement/206-crescent-hill-explorer), and a title "[Dancer](https://www.aurakingdom-db.com/title/13-dancer)".

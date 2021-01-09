@@ -17,4 +17,4 @@ layout: default
 9. [Thief's Honor](https://youtu.be/yR4U-XkRBuc)
 10. [Lost in Love](https://youtu.be/ZUFqxQ9dHuI)
 
-After completing all above Achievements, you will gain **Candeo Marsh Explorer**, and a title "Swamp Thing".
+After completing all above Achievements, you will gain [**Candeo Marsh Explorer**](https://www.aurakingdom-db.com/achievement/210-candeo-marsh-explorer), and a title "[Swamp Thing](https://www.aurakingdom-db.com/title/17-swamp-thing)".

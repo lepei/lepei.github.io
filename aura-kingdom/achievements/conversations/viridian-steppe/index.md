@@ -16,4 +16,4 @@ layout: default
 9. [The Dangers of Botany](https://youtu.be/UQzZ4jiRjL4)
 10. [Burning Curiosity](https://youtu.be/WNPTIMx4Eus)
 
-After completing all above Achievements, you will gain **Viridian Steppe Expert**, and a title "Steppe Stepper".
+After completing all above Achievements, you will gain [**Viridian Steppe Expert**](https://www.aurakingdom-db.com/achievement/290-viridian-steppe-expert), and a title "[Steppe Stepper](https://www.aurakingdom-db.com/title/1148-steppe-stepper)".
