@@ -23,7 +23,7 @@ layout: home
 <br/><br/>
 
 # [Small Lamp Grass](small-lamp-grass/)
-![Small Lamp Grass](/assets/img/genshin-impact/local-specialty/small-lamp-grass.png)
+[![Small Lamp Grass](/assets/img/genshin-impact/local-specialty/small-lamp-grass.png)](small-lamp-grass/)
 
 <br/><br/>
 
