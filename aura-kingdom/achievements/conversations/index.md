@@ -15,7 +15,7 @@ layout: default
 <br/><br/>
 
 # [Stardust Island](stardust-island/) &#x1F538;``NEW``
-![Stardust Island](/assets/img/aura-kingdom/stardust-island-banner.jpg)
+![Stardust Island](../../../assets/img/aura-kingdom/stardust-island-banner.jpg)
 
 <br/><br/>
 
