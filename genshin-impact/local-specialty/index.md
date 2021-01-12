@@ -9,7 +9,7 @@ layout: home
 <br/><br/>
 
 # [Cecilia](cecilia/)
-![Cecilia](/assets/img/genshin-impact/local-specialty/cecilia.png)
+[![Cecilia](/assets/img/genshin-impact/local-specialty/cecilia.png)](cecilia/)
 
 <br/><br/>
 
