@@ -5,6 +5,7 @@ layout: home
 [back](../) < <
 
 # Calla Lily
+![Calla Lily](/assets/img/genshin-impact/local-specialty/calla-lily.png)
 
 <br/><br/>
 
@@ -19,6 +20,7 @@ layout: home
 <br/><br/>
 
 # Philanemo Mushroom
+![Philanemo Mushroom](/assets/img/genshin-impact/local-specialty/philanemo-mushroom.png)
 
 <br/><br/>
 
@@ -28,6 +30,7 @@ layout: home
 <br/><br/>
 
 # Valberry
+![Valberry](/assets/img/genshin-impact/local-specialty/valberry.png)
 
 <br/><br/>
 
@@ -37,5 +40,6 @@ layout: home
 <br/><br/>
 
 # Wolfhook
+![Wolfhook](/assets/img/genshin-impact/local-specialty/wolfhook.png)
 
 <br/><br/>
