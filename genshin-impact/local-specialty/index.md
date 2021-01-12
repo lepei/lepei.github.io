@@ -14,7 +14,7 @@ layout: home
 <br/><br/>
 
 # [Dandelion Seed](dandelion-seed/)
-![Dandelion Seed](/assets/img/genshin-impact/local-specialty/dandelion-seed.png)
+[![Dandelion Seed](/assets/img/genshin-impact/local-specialty/dandelion-seed.png)](dandelion-seed/)
 
 <br/><br/>
 
