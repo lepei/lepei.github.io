@@ -20,6 +20,8 @@ layout: home
 
 # Philanemo Mushroom
 
+<br/><br/>
+
 # Small Lamp Grass
 ![Small Lamp Grass](/assets/img/genshin-impact/local-specialty/small-lamp-grass.png)
 
@@ -27,9 +29,13 @@ layout: home
 
 # Valberry
 
+<br/><br/>
+
 # Windwheel Aster
 ![Windwheel Aster](/assets/img/genshin-impact/windwheel-aster-banner.jpg)
 
 <br/><br/>
 
 # Wolfhook
+
+<br/><br/>
