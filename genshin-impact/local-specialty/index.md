@@ -32,7 +32,7 @@ layout: home
 <br/><br/>
 
 # [Windwheel Aster](windwheel-aster/)
-![Windwheel Aster](/assets/img/genshin-impact/local-specialty/windwheel-aster.png)
+[![Windwheel Aster](/assets/img/genshin-impact/local-specialty/windwheel-aster.png)](windwheel-aster/)
 
 <br/><br/>
 
