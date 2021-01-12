@@ -6,4 +6,5 @@ layout: default
 
 ![cecilia route](cecilia-route.jpg)
 
-<iframe src="https://www.youtube.com/embed/QasraXI6mOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QasraXI6mOY" frameborder="0" allowfullscreen>
+</iframe>
