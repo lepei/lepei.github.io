@@ -9,12 +9,12 @@ layout: home
 <br/><br/>
 
 # Cecilia
-![Cecilia](/assets/img/genshin-impact/cecilia-banner.jpg)
+![Cecilia](/assets/img/genshin-impact/local-specialty/cecilia.png)
 
 <br/><br/>
 
 # Dandelion Seed
-![Dandelion Seed](/assets/img/genshin-impact/dandelion-seed-banner.jpg)
+![Dandelion Seed](/assets/img/genshin-impact/local-specialty/dandelion-seed.png)
 
 <br/><br/>
 
@@ -32,7 +32,7 @@ layout: home
 <br/><br/>
 
 # Windwheel Aster
-![Windwheel Aster](/assets/img/genshin-impact/windwheel-aster-banner.jpg)
+![Windwheel Aster](/assets/img/genshin-impact/local-specialty/windwheel-aster.png)
 
 <br/><br/>
 
