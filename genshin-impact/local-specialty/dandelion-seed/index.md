@@ -4,6 +4,6 @@ layout: default
 
 [back](../) < < <
 
-![cecilia route](cecilia-route.jpg)
+![dandelion seed route 1](dandelion-seed-route-1.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QasraXI6mOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
