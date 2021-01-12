@@ -12,8 +12,10 @@ layout: default
 
 ## Location & Route
 
-![dandelion seed route 1](small-lamp-grass-route-1.jpg)
+![small-lamp-grass route 1](small-lamp-grass-route-1.jpg)
 
-![dandelion seed route 2](small-lamp-grass-route-2.jpg)
+![small-lamp-grass route 2](small-lamp-grass-route-2.jpg)
 
-![dandelion seed route 2](small-lamp-grass-route-3.jpg)
+![small-lamp-grass route 3](small-lamp-grass-route-3.jpg)
+
+![small-lamp-grass route 4](small-lamp-grass-route-4.jpg)
