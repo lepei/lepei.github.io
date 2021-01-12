@@ -12,8 +12,8 @@ layout: default
 
 ## Location & Route
 
-![dandelion seed route 1](windwheel-aster-route-1.jpg)
+![windwheel aster route 1](windwheel-aster-route-1.jpg)
 
-![dandelion seed route 2](windwheel-aster-route-2.jpg)
+![windwheel aster route 2](windwheel-aster-route-2.jpg)
 
-![dandelion seed route 2](windwheel-aster-route-3.jpg)
+![windwheel aster route 2](windwheel-aster-route-3.jpg)
