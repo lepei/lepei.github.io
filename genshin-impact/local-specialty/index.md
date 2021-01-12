@@ -8,12 +8,12 @@ layout: home
 
 <br/><br/>
 
-# Cecilia
+# [Cecilia](cecilia/)
 ![Cecilia](/assets/img/genshin-impact/local-specialty/cecilia.png)
 
 <br/><br/>
 
-# Dandelion Seed
+# [Dandelion Seed](dandelion-seed/)
 ![Dandelion Seed](/assets/img/genshin-impact/local-specialty/dandelion-seed.png)
 
 <br/><br/>
@@ -22,7 +22,7 @@ layout: home
 
 <br/><br/>
 
-# Small Lamp Grass
+# [Small Lamp Grass](small-lamp-grass/)
 ![Small Lamp Grass](/assets/img/genshin-impact/local-specialty/small-lamp-grass.png)
 
 <br/><br/>
@@ -31,7 +31,7 @@ layout: home
 
 <br/><br/>
 
-# Windwheel Aster
+# [Windwheel Aster](windwheel-aster/)
 ![Windwheel Aster](/assets/img/genshin-impact/local-specialty/windwheel-aster.png)
 
 <br/><br/>
