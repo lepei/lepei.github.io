@@ -21,7 +21,7 @@ layout: home
 # Philanemo Mushroom
 
 # Small Lamp Grass
-![Small Lamp Grass](/assets/img/genshin-impact/small-lamp-grass.png)
+![Small Lamp Grass](/assets/img/genshin-impact/local-specialty/small-lamp-grass.png)
 
 <br/><br/>
 
