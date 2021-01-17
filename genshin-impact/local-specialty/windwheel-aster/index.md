@@ -16,4 +16,6 @@ layout: default
 
 ![windwheel aster route 2](windwheel-aster-route-2.jpg)
 
-![windwheel aster route 2](windwheel-aster-route-3.jpg)
+![windwheel aster route 3](windwheel-aster-route-3.jpg)
+
+![windwheel aster route 4](windwheel-aster-route-4.jpg)
