@@ -16,4 +16,4 @@ layout: default
 
 ![dandelion seed route 2](dandelion-seed-route-2.jpg)
 
-![dandelion seed route 2](dandelion-seed-route-3.jpg)
+![dandelion seed route 3](dandelion-seed-route-3.jpg)
