@@ -10,3 +10,8 @@ layout: home
 <br/><br/>
 
 # Geoculus
+
+<br/><br/>
+
+# [Crimson Agate](crimson-agate/)
+![Crimson Agate](/assets/img/genshin-impact/crimson-agate-banner.jpg)
