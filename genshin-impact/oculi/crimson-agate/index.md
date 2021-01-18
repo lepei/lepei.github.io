@@ -5,7 +5,9 @@ layout: default
 [back](../) < < < <
 
 ## Overview
+
 Right-click on the image and select "Open image in new tab" or "Save image as..." for a bigger resolution.
+
 ![Crimson Agate Overview](crimson-agate-overview.jpg)
 
 <br/><br/>
