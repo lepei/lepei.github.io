@@ -12,8 +12,8 @@ layout: default
 
 ## Location & Route
 
-![dandelion seed route 1](dandelion-seed-route-1.jpg)
+![Dandelion Seed Route 1](dandelion-seed-route-1.jpg)
 
-![dandelion seed route 2](dandelion-seed-route-2.jpg)
+![Dandelion Seed Route 2](dandelion-seed-route-2.jpg)
 
-![dandelion seed route 3](dandelion-seed-route-3.jpg)
+![Dandelion Seed Route 3](dandelion-seed-route-3.jpg)
