@@ -12,4 +12,4 @@ layout: default
 
 ## Location & Route
 
-![cecilia route](cecilia-route.jpg)
+![Cecilia Route](cecilia-route.jpg)
