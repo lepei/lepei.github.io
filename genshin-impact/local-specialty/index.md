@@ -31,7 +31,7 @@ layout: home
 
 <br/>
 
-## Philanemo Mushroom
+## [Philanemo Mushroom](philanemo-mushroom/)
 ![Philanemo Mushroom](/assets/img/genshin-impact/local-specialty/philanemo-mushroom.png)
 
 <br/>
