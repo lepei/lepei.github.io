@@ -12,4 +12,8 @@ layout: default
 
 ## Location & Route
 
-![Philanemo Mushroom Route](philanemo-mushroom-route.jpg)
+![Philanemo Mushroom Route 1](philanemo-mushroom-route-1.jpg)
+
+![Philanemo Mushroom Route 2](philanemo-mushroom-route-2.jpg)
+
+![Philanemo Mushroom Route 3](philanemo-mushroom-route-3.jpg)
