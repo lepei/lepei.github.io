@@ -51,7 +51,7 @@ layout: home
 
 <br/>
 
-## Wolfhook
-![Wolfhook](/assets/img/genshin-impact/local-specialty/wolfhook.png)
+## [Wolfhook](wolfhook/)
+[![Wolfhook](/assets/img/genshin-impact/local-specialty/wolfhook.png)](wolfhook/)
 
 
