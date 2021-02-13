@@ -41,8 +41,8 @@ layout: home
 
 <br/>
 
-## Valberry
-![Valberry](/assets/img/genshin-impact/local-specialty/valberry.png)
+## [Valberry](valberry/)
+[![Valberry](/assets/img/genshin-impact/local-specialty/valberry.png)](valberry/)
 
 <br/>
 
