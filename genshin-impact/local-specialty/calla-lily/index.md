@@ -12,4 +12,14 @@ layout: default
 
 ## Location & Route
 
-![Calla Lily Route](calla-lily-route.jpg)
+![Calla Lily Route 1](calla-lily-route-1.jpg)
+
+![Calla Lily Route 2](calla-lily-route-2.jpg)
+
+![Calla Lily Route 3](calla-lily-route-3.jpg)
+
+![Calla Lily Route 4](calla-lily-route-4.jpg)
+
+![Calla Lily Route 5](calla-lily-route-5.jpg)
+
+![Calla Lily Route 6](calla-lily-route-6.jpg)
