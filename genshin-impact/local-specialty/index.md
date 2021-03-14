@@ -16,8 +16,8 @@ layout: home
 
 <br/><br/>
 
-## Calla Lily
-![Calla Lily](/assets/img/genshin-impact/local-specialty/calla-lily.png)
+## [Calla Lily](calla-lily/)
+[![Calla Lily](/assets/img/genshin-impact/local-specialty/calla-lily.png)](calla-lily/)
 
 <br/>
 
