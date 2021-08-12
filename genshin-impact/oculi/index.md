@@ -15,3 +15,7 @@ layout: home
 
 # [Crimson Agate](crimson-agate/)
 ![Crimson Agate](/assets/img/genshin-impact/crimson-agate-banner.jpg)
+
+<br/><br/>
+
+# [Electroculus ](electroculus/)
