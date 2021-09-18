@@ -13,6 +13,7 @@ layout: home
 6. [Valberry](valberry)
 7. [Windwheel Aster](windwheel-aster)
 8. [Wolfhook](wolfhook)
+9. [Jueyun Chili](jueyun-chili)
 
 <br/><br/>
 
