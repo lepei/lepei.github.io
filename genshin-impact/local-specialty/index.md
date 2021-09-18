@@ -54,4 +54,7 @@ layout: home
 ## [Wolfhook](wolfhook/)
 [![Wolfhook](/assets/img/genshin-impact/local-specialty/wolfhook.png)](wolfhook/)
 
+<br/>
 
+## [Jueyun Chili](jueyun-chili/)
+[![Wolfhook](/assets/img/genshin-impact/local-specialty/jueyun-chili.png)](jueyun-chili/)
